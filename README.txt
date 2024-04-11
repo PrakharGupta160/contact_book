@@ -30,7 +30,7 @@ are listed below :
 
 -> division will be applied on this as key in dictionary and it will save data in "default" by default.
 
-an example file is given below with proper format :
+an example row is given below with proper format :
 
 -> # This is an example row :
 ->
